@@ -1,3 +1,5 @@
+Preview Link: https://htmlpreview.github.io/?https://github.com/jack2yin/calculator/blob/main/index.html
+
 # calculator
 Project Calculator 
 
